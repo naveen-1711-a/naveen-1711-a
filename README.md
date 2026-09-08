@@ -19,7 +19,7 @@
     alt="Profile Views"
   />
 </p>
-## 🌐 Connect With Me
+🌐 Connect With Me
 
 <p>
   <a href="https://github.com/naveen-1711-a">
